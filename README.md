@@ -11,4 +11,5 @@ A partir de unos datasets proporcionados por la plataforma Kaggle, se predecirá
 Los datos del DataSet son provenientes de [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 ## Vídeos
 [Vídeo segunda entrega](https://www.youtube.com/watch?v=nonqJFQ-So8)
+
 [Vídeo entrega final](https://www.youtube.com/watch?v=pHfV5shQ_G8)
